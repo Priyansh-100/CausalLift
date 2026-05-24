@@ -21,6 +21,7 @@ The project focuses on estimating treatment effects, identifying high-impact use
 
 ## Project Structure
 
+```text
 CausalLift/
 │
 ├── data.py
@@ -33,8 +34,7 @@ CausalLift/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
-
----
+```
 
 ## Tech Stack
 
